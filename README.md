@@ -56,14 +56,6 @@ I'm a Full Stack Developer passionate about building modern, responsive, and use
 
 ---
 
-### 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjithkumardeveloper&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkumardeveloper&layout=compact&theme=transparent)
-
----
-
 ### 🤝 Let's Connect
 
 - 🌐 Portfolio: https://ranjithkumardev.com
